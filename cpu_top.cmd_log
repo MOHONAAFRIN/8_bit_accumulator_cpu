@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/vlsi/cpu_8bit_accumulator/cpu_top.xst" -ofn "/home/ise/vlsi/cpu_8bit_accumulator/cpu_top.syr" 

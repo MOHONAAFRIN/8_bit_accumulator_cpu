@@ -1,0 +1,7 @@
+vhdl isim_temp "program_rom.vhd"
+vhdl isim_temp "pc_counter.vhd"
+vhdl isim_temp "control_unit.vhd"
+vhdl isim_temp "alu.vhd"
+vhdl isim_temp "acc_z_reg.vhd"
+vhdl isim_temp "cpu_top.vhd"
+vhdl isim_temp "cpu_tb.vhd"

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/vlsi/cpu_8bit_accumulator/cpu_tb_isim_beh.exe" -prj "/home/ise/vlsi/cpu_8bit_accumulator/cpu_tb_beh.prj" "work.cpu_tb" 
